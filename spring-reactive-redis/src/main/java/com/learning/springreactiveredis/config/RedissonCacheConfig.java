@@ -1,4 +1,4 @@
-package com.learning.springreactiveredis.fib.config;
+package com.learning.springreactiveredis.config;
 
 import org.redisson.api.RedissonClient;
 import org.redisson.spring.cache.RedissonSpringCacheManager;
